@@ -3,6 +3,15 @@ languageCode: en-us
 title: aainfo
 theme: PaperMod
 
+params:
+    homeInfoParams:
+        Title: AAINFO site
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/darkbru/"
+
 outputs:
     home:
         - HTML
