@@ -17,7 +17,7 @@ categories: ["international"]
 
 
 ### President Mikron gave as a gift to Pope a  book looted in Poland.
-![ja](/img/zwsem.jpeg#left)
+
 Dokładny cytat gen. Nowaka:Wiemy jaka jest sytuacja geopolityczna (…) to spowodowało zmianę strukturze SZRP. (...) rozwijamy się, okres zwijania  się skończył. Mamy nowe wyzwania, wiemy że w najbl. okresie, najbliższej dekadzie będziemy potrzebowali ponad 1000 pilotów.
 
 

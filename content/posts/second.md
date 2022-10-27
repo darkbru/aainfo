@@ -5,16 +5,12 @@ draft: false
 tags: ["politics"]
 categories: ["international"]
 ---
-![ja](/img/zwsem.jpeg#)
+
 # Dziś z Tweeteara
 ## Afera goni aferę.
 
-
-
-
 Jan Wójcik
 @jankwojcik
-·
 
 Dzisiaj pod postem 
 @BeataGWinter
