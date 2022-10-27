@@ -2,10 +2,6 @@
 title: "Second"
 date: 2022-10-25T22:28:27+02:00
 draft: false
-params:
-    ShowPostNavLinks: true
-    ShowCodeCopyButtons: true
-    ShowBreadCrumbs: true
 tags: ["politics"]
 categories: ["international"]
 ---

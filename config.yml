@@ -1,7 +1,25 @@
 baseURL: "https://incomparable-kashata-baf662.netlify.app/"
 languageCode: en-us
 title: aainfo
-theme: m10c
+theme: PaperMod
+enableRobotsTXT: true
+params:
+  defaultTheme:  dark #auto,light
+  disableThemeToggle: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideSummary: false
+
+#assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    #favicon: "<link / abs url>"
+
+label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
 
 outputs:
     home:
