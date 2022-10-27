@@ -13,13 +13,12 @@ params:
 tags: ["politics"]
 categories: ["international"]
 
-cover:
-    image: "img/zelenski.png"#left
-    responsiveImages: false
 ---
 
 # The Kyiv Independent
 @KyivIndependent
+
+![] img: "img/zelenski.png"#left
 
 ## "All of Ukraine will be free," 
 said President Volodymyr Zelensky on the eight-month anniversary of Russia's full-scale invasion of Ukraine.
