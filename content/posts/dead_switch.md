@@ -10,7 +10,7 @@ tags: ["Linux"]
 categories: ["IT"]
 #weight: 1 #pin possition
 ---
-
+![ja](/img/zwsem.jpeg#left)
 ## Wireguard on Raspbian as Dead Switch
 
 Modify rc.local in /etc.
