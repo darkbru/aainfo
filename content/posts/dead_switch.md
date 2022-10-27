@@ -12,8 +12,8 @@ image: ""
 #weight: 1 #pin possition
 ---
 
-** Wireguard on Raspbian as Dead Switch
-![](/img/zwasem.jpg)
+**Wireguard on Raspbian as Dead Switch
+![](/img/zwsem.jpg)
 
 Modify rc.local in /etc.
 Enter those lines after fi.
