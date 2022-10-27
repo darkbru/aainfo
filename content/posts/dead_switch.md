@@ -8,21 +8,20 @@ params:
     ShowBreadCrumbs: true
 tags: ["Linux"]
 categories: ["IT"]
-image: ""
+image: "/img/zwsem.jpeg"
 #weight: 1 #pin possition
 ---
 
-**Wireguard on Raspbian as Dead Switch
-![](/img/zwsem.jpg)
-
+## Wireguard on Raspbian as Dead Switch
+![ja](/img/zwsem.jpeg)
 Modify rc.local in /etc.
 Enter those lines after fi.
 piuk is a name of the WG interface.
 
 `       
-        sleep 15
-        sudo iptables -t nat -A POSTROUTING -o piuk -j MASQUERADE
-        sudo iptables -A FORWARD -i piuk -o eth0 -m state --state RELATED,ESTABLISHED -j ACCEPT
-        sudo iptables -A FORWARD -i eth0 -o piuk -j ACCEPT
-        exit 0
+        sleep 15  
+        sudo iptables -t nat -A POSTROUTING -o piuk -j MASQUERADE  
+        sudo iptables -A FORWARD -i piuk -o eth0 -m state --state RELATEDESTABLISHED   -j ACCEPT  
+        sudo iptables -A FORWARD -i eth0 -o piuk -j ACCEPT  
+        exit 0  
 `
