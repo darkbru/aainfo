@@ -5,7 +5,7 @@ draft: false
 tags: ["politics"]
 categories: ["international"]
 ---
-![ja](/img/zwsem.jpeg#left)
+![ja](/img/zwsem.jpeg#)
 # Dziś z Tweeteara
 ## Afera goni aferę.
 

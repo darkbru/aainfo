@@ -11,4 +11,4 @@ categories: ["international"]
 image: ""
 #weight: 1 #pin possition
 ---
-![ja](/img/zwsem.jpeg#left)
+![ja](/img/zwsem.jpeg#)
