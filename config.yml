@@ -14,7 +14,7 @@ params:
 assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "flavicon/favicon.ico"
+    favicon: "/favicon.ico"
 
 label:
     text: "Home"
