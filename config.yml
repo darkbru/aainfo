@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://incomparable-kashata-baf662.netlify.app/"
 languageCode: en-us
 title: aainfo
 theme: PaperMod
@@ -11,6 +11,10 @@ outputs:
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /about/
+      weight: 9
     - identifier: search
       name: Search
       url: /search/
