@@ -14,7 +14,7 @@ tags: ["politics"]
 categories: ["international"]
 
 cover:
-    image: "img/zelenski.png"
+    image: "img/zelenski.png"#left
     responsiveImages: false
 ---
 
