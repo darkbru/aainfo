@@ -1,7 +1,7 @@
 baseURL: "https://incomparable-kashata-baf662.netlify.app/"
 languageCode: en-us
 title: aainfo
-theme: PaperMod
+theme: m10c
 
 outputs:
     home:
