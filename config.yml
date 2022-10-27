@@ -14,14 +14,14 @@ params:
     imageWidth: 60
     imageHeight: 120
 
-#assets:
+assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    #favicon: "<link / abs url>"
+    favicon: "/img/zwsem.jpeg"
 
 label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /img/zwsem.jpeg
     iconHeight: 35
 
 outputs:
