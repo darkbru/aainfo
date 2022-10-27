@@ -10,6 +10,5 @@ tags: ["politics"]
 categories: ["international"]
 image: ""
 #weight: 1 #pin possition
-#{{< figure align=center src="/img/zwsem.jpeg" >}}----Wstaw obrazek
 ---
 
