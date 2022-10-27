@@ -19,8 +19,10 @@ Modify rc.local in /etc.
 Enter those lines after fi.
 piuk is a name of the WG interface.
 
-`       sleep 15
+`       
+        sleep 15
         sudo iptables -t nat -A POSTROUTING -o piuk -j MASQUERADE
         sudo iptables -A FORWARD -i piuk -o eth0 -m state --state RELATED,ESTABLISHED -j ACCEPT
         sudo iptables -A FORWARD -i eth0 -o piuk -j ACCEPT
-        exit 0`
+        exit 0
+`
