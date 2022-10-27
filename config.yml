@@ -10,10 +10,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideSummary: false
-  imageUrl: "/img/zwsem.jpeg"
-    imageWidth: 60
-    imageHeight: 120
-
+  
 assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -21,7 +18,7 @@ assets:
 
 label:
     text: "Home"
-    icon: /img/zwsem.jpeg
+    icon: favicon.ico
     iconHeight: 35
 
 outputs:
