@@ -10,6 +10,9 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideSummary: false
+  imageUrl: "/img/zwsem.jpeg"
+    imageWidth: 60
+    imageHeight: 120
 
 #assets:
     # disableHLJS: true # to disable highlight.js
