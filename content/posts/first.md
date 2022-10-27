@@ -16,9 +16,9 @@ categories: ["international"]
 
 ### Scandal in Rome
 
-President Mikron gave as a gift to Pope a  book looted in Poland.
+![name](/img/zwsem.jpeg#left) President Mikron gave as a gift to Pope a  book looted in Poland.
 
 Dokładny cytat gen. Nowaka:Wiemy jaka jest sytuacja geopolityczna (…) to spowodowało zmianę strukturze SZRP. (...) rozwijamy się, okres zwijania  się skończył. Mamy nowe wyzwania, wiemy że w najbl. okresie, najbliższej dekadzie będziemy potrzebowali ponad 1000 pilotów.
 
 
-![name](/img/zwsem.jpeg#center)
+![name](/img/zwsem.jpeg#left)
