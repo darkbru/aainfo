@@ -6,8 +6,8 @@ params:
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
     ShowBreadCrumbs: true
-tags: ["politics"]
-categories: ["international"]
+tags: ["Linux"]
+categories: ["IT"]
 image: ""
 #weight: 1 #pin possition
 ---
