@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IT on aainfo</title>
+    <link>https://incomparable-kashata-baf662.netlify.app/categories/it/</link>
+    <description>Recent content in IT on aainfo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Oct 2022 22:14:17 +0200</lastBuildDate><atom:link href="https://incomparable-kashata-baf662.netlify.app/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pivpn on Linux</title>
+      <link>https://incomparable-kashata-baf662.netlify.app/posts/pivpn-on-linux/</link>
+      <pubDate>Fri, 28 Oct 2022 22:14:17 +0200</pubDate>
+      
+      <guid>https://incomparable-kashata-baf662.netlify.app/posts/pivpn-on-linux/</guid>
+      <description>Install pivpn on Linux Ubuntu Server PIVPN, the easiest way to set up WireGuard on the cloud Ubuntu Server.
+WireGuard doesn&amp;rsquo;t need any additional recommendations.
+The installation is very simple.
+curl -L https://install.pivpn.io | bash I reccommand to see instalation process on &amp;ldquo;Raspberry Pi Tutorial&amp;rdquo; (https://www.youtube.com/watch?v=kLmbgJe1rEU)</description>
+    </item>
+    
+    <item>
+      <title>WireGuard Dead Switch on Raspbian</title>
+      <link>https://incomparable-kashata-baf662.netlify.app/posts/dead_switch/</link>
+      <pubDate>Thu, 27 Oct 2022 20:16:05 +0200</pubDate>
+      
+      <guid>https://incomparable-kashata-baf662.netlify.app/posts/dead_switch/</guid>
+      <description>WireGuard on Raspbian as Dead Switch Modify rc.local in /etc.
+Enter those lines after fi.
+piuk is a name of the WireGuard network interface.
+sleep 15 sudo iptables -t nat -A POSTROUTING -o piuk -j MASQUERADE sudo iptables -A FORWARD -i piuk -o eth0 -m state --state RELATEDESTABLISHED -j ACCEPT sudo iptables -A FORWARD -i eth0 -o piuk -j ACCEPT exit 0 </description>
+    </item>
+    
+  </channel>
+</rss>

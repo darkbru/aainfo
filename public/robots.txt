@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://incomparable-kashata-baf662.netlify.app/sitemap.xml
