@@ -12,11 +12,11 @@ categories: ["IT"]
 ---
 ![](/img/zwsem.jpg?classes=float-left,shadow)
  ### Wireguard on Raspbian as Dead Switch
-Modify `rc.local` in `/etc`.
-Enter those lines after `fi`.
-piuk is a name of the WG interface.
+Modify `rc.local` in `/etc`.  
+Enter those lines after `fi`.  
+"piuk" is a name of the WG interface. 
 
-```       
+``` cli       
 sleep 15  
 sudo iptables -t nat -A POSTROUTING -o piuk -j MASQUERADE  
 sudo iptables -A FORWARD -i piuk -o eth0 -m state --state RELATEDESTABLISHED   -j ACCEPT  
