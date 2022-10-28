@@ -11,4 +11,6 @@ categories: ["international"]
 image: ""
 #weight: 1 #pin possition
 ---
+<p style="max-width: 50%; float: right;">
 ![ja](/img/zwsem.jpeg#)
+</p>

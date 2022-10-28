@@ -11,7 +11,9 @@ categories: ["IT"]
 #weight: 1 #pin possition
 ---
 ## Wireguard on Raspbian as Dead Switch
-
+<p style="max-width: 50%; float: right;">
+![ja](/img/zwsem.jpeg#)
+</p>
 Modify rc.local in /etc.
 Enter those lines after fi.
 piuk is a name of the WG interface.
