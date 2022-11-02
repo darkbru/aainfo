@@ -19,6 +19,6 @@ The installation is very simple.
 ```cli 
 curl -L https://install.pivpn.io | bash
 ```
-I reccommand to see instalation process on "Raspberry Pi Tutorial"
+I recommend seeing installation process on "Raspberry Pi Tutorial"
 
 {{<youtube kLmbgJe1rEU>}}
