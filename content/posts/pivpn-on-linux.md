@@ -21,6 +21,5 @@ curl -L https://install.pivpn.io | bash
 ```
 I reccommand to see instalation process on "Raspberry Pi Tutorial"
 ![Raspberry Pi Tutorials](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)(https://www.youtube.com/watch?v=kLmbgJe1rEU)
-
-<iframe width="1473" height="641" src="https://www.youtube.com/embed/kLmbgJe1rEU" title="OpenVPN Raspberry Pi Setup using PiVPN! (Easy Tutorial)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube kLmbgJe1rEU>}}
 
